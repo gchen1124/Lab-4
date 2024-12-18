@@ -7,6 +7,7 @@ Analyze Social Vulnerability and Housing Data:
 Understand the demographic, socioeconomic, and housing characteristics across different regions.
 Identify Key Insights:
 Highlight relationships between SVI metrics (e.g., unemployment, poverty, age distribution) and housing factors (e.g., total affordable units, zoning).
+
 Present Findings:
 Provide a clear, interactive, and visually appealing dashboard for decision-makers and stakeholders.
 Datasets Used
@@ -19,6 +20,7 @@ Includes details about housing projects, zoning, and population characteristics.
 Key Columns:
 ADDRESS, TOTAL_AFFO, ZONING, ZONE_DESCR, E_TOTPOP, E_POV150, E_UNEMP, etc.
 Tableau Dashboard Components
+
 Filters:
 Region/Location filter to narrow down data based on specific areas.
 Year or zoning-related filters to analyze trends over time or by zoning types.
@@ -26,6 +28,7 @@ Charts and Visualizations:
 Demographic Overview: Display population statistics (e.g., age distribution, minority percentage).
 Housing Affordability Analysis: Compare total affordable housing units against social vulnerability metrics.
 Key Correlations: Scatterplots and heatmaps showing relationships between E_POV150 (poverty), E_UNEMP (unemployment), and housing factors.
+
 Maps:
 Geographic representation of SVI and housing data, showcasing high-risk areas and housing availability.
 KPIs (Key Performance Indicators):
